@@ -6,9 +6,11 @@ Eventually however, it all redirected to Algodoo's website. While Algodoo is sup
 
 While http://www.phunland.com said to not mirror things, it doesn't apply anymore because the main distribution died many years ago and only Softonic/similar are left.
 
-Win32 4.22 and 5.28 are included.
+Win32 Portable and Installer, Mac and Linux32 4.22, as well as Win32 Portable 5.28 are included.
 
 Note that the Linux64 version of 4.22 and the Linux32, Linux64, Mac, Windows Installer of 5.28 are currently not archived by the Wayback Machine and therefore lost.
+
+Timestamped copies from the phunland.com/download site have been included to coordinate if any of those files can be recovered.
 
 Phun 5.28 was actually made with:
 - sdl 1.2.13
