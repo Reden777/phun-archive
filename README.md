@@ -7,3 +7,16 @@ Eventually however, it all redirected to Algodoo's website. While Algodoo is sup
 While http://www.phunland.com said to not mirror things, it doesn't apply anymore because the main distribution died many years ago and only Softonic/similar are left.
 
 Win32 4.22 and 5.28 are included.
+
+Note that the Linux64 version of 4.22 and the Linux32, Linux64, Mac, Windows Installer of 5.28 are currently not archived by the Wayback Machine and therefore lost.
+
+Phun 5.28 was actually made with:
+- sdl 1.2.13
+- sdl_image 1.2.6
+- zlib 21/07/2007
+- mgwz.dll 21/01/2004
+- libzip.dll 18/11/2008
+- libpng12.dll and libpng12-0.dll 17/06/2008
+- libpng3.dll 1.2.33.3233
+- GLEW 1.5
+- jpeg.dll 21/07/2007
