@@ -10,7 +10,7 @@ Win32 Portable and Installer, Mac and Linux32 4.22, as well as Win32 Portable 5.
 
 Note that the Linux64 version of 4.22 and the Linux32, Linux64, Mac, Windows Installer of 5.28 are currently not archived by the Wayback Machine and therefore lost.
 
-Timestamped copies from the phunland.com/download site have been included to coordinate if any of those files can be recovered.
+Timestamped copies from the phunland.com/download site have been included to coordinate if any of those files can be recovered. Edit: To give an example, `Phun_080213.avi` is archived.
 
 Phun 5.28 was actually made with:
 - sdl 1.2.13
